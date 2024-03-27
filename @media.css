@@ -2,4 +2,16 @@
   /* .container {
     margin-top: 50px;/
   } */
+  .banner-image {
+    width: 200%;
+  }
+
+  .container2 {
+    bottom: -465px;
+    margin-left: 145px;
+  }
+  .container-head {
+    margin-top: 15px;
+    font-size: 15px;
+  }
 }
